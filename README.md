@@ -1,6 +1,7 @@
 # Meme_Generation
 Use GAN to generate Memes
-<p align="center"><img width="100%" src="1.jpg" /></p>
+<p align="center"><img width="20%" src="1.jpg" /></p>
+
 <p align="center"><img width="150%" src="image.png" /></p>
 1. Train the network for Fast Neural Style Transfer 
 ```bash
