@@ -35,5 +35,6 @@ Thanks the authors of StarGAN and Fast_Neural_Style_Transfer !
 }
 
 https://github.com/yunjey/StarGAN
+
 https://github.com/OlavHN/fast-neural-style
 
